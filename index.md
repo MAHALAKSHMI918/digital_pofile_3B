@@ -2,10 +2,10 @@ Nukala Mahalakhmi
 ============
 
 -------------------     ----------------------------
-email                     mahanukala@gmail.com
-empid                     y18it071
-phone                     7997137944
-gmail                     [linkedin](http://www.linkedin.com)
+* email:                     mahanukala@gmail.com
+* empid :                    y18it071
+* phone  :                   7997137944
+* linkedin:                     [linkedin](http://www.linkedin.com)
 -------------------     ----------------------------
 
 Education
