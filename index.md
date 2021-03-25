@@ -1,48 +1,42 @@
-Johnny Coder
+Nukala Mahalakhmi
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email                     mahanukala@gmail.com
+empid                     y18it071
+phone                     7997137944
+gmail                     [linkedin](http://www.linkedin.com)
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **btech, IT**; rvr and jc college
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *mini project: web development*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2018
+:   **Intermediate, MPC**; sri chiatanya college
 
     *Minor: Awesomeology*
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **That Other Job You Had**
 
 Also with a short description.
 
-Technical Experience
+Technical Skills
 --------------------
-
+**programing languages**
+* c
+* python(basic)
+* java
+* html
+* javascript
+* git and github
+**other skills**
+* comunication
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
@@ -84,7 +78,7 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
+     * Telugu(native speaker)
      * ???
      * This is what a nested list looks like.
 
